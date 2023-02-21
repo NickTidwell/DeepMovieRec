@@ -1,0 +1,4 @@
+name batch_size embedd_size rho neg_sample pos neg
+model_pytorch.h5 256 256 0.001 10 60 50
+model_pytorch2.h5 512 100 0.002 10 60 50
+model_pytorch2.h5 256 256 0.002 15 70 50
